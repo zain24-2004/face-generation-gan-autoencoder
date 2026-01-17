@@ -81,5 +81,13 @@ The CelebA dataset provides a rich collection of celebrity face images with high
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
+gan-autoencoder-celeba/
+│
+├── data/
+│ └── celeba_subset/
+│
+├── models/
+│ ├── autoencoder.py
+│ ├── generator.py
 
